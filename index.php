@@ -17,7 +17,7 @@
 
 		<ul>
 		 	<li><h1>WELCOME!</li></h1>
-			<li class="active"><a href="My Project.html">MY PROJECT</a></li>
+			<li class="active"><a href="index.php">MY PROJECT</a></li>
 			<li><a href="about me.html">ABOUT ME</a></li>
 			<li><a href="ask me.html">ASK ME</a></li>
 		</ul>
